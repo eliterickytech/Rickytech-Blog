@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Force | Select-Object Mode, Name; Write-Output \"---PYTHON---\"; \\(Get-Command python -ErrorAction SilentlyContinue\\).Source; \\(Get-Command uv -ErrorAction SilentlyContinue\\).Source)"
+    ]
+  }
+}
