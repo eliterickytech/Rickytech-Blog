@@ -1,0 +1,15 @@
+# Local editor state
+.claude/settings.local.json
+
+# Python cache and virtual environments
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/venv/
+
+# Generated backups and scratch files
+_backups/
+scraps/
+
+# Packaged theme archives
+wp-theme/*.zip
