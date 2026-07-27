@@ -1,3 +1,14 @@
+# Secrets — NUNCA versionar nenhum .env
+.env
+**/.env
+*.env
+!.env.example
+**/.env.example
+
+# Imagens de capa (grandes; geradas/baixadas localmente) e arquivos temporários
+.ia/capas/
+_to_delete/
+
 # Local editor state
 .claude/settings.local.json
 

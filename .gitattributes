@@ -1,0 +1,19 @@
+# Normaliza line endings: repositorio sempre em LF
+* text=auto eol=lf
+
+# Scripts que precisam de CRLF no Windows
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binarios: nunca tocar
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.zip binary
+*.pdf binary
