@@ -21,9 +21,9 @@ Marque `- [feito]` quando o post já existir (evita duplicar).
 - [feito] backend — MongoDB para RAG: quais índices criar (Atlas Vector Search)
 
 ## 2026-07-31
-- [ ] devops — Azure Pipelines Parte 2 de 3: (definir — ex.: validações/políticas ao criar a branch)
-- [ ] ia — (definir tema)
-- [ ] frontend — (definir tema)
+- [feito] devops — Azure Pipelines Parte 2 de 3: abrir Pull Request e vincular Work Item via REST API (`.ia/drafts/devops-pipeline-branch-2.json`)
+- [feito] ia — Inkling (Thinking Machines, MoE 975B/41B) com suporte nativo no Transformers 5.14.0 (`.ia/drafts/ia-inkling-transformers.json`)
+- [feito] frontend — CSS if(): condicionais nativas de valor (media/supports/style) (`.ia/drafts/frontend-css-if.json`)
 
 ## 2026-08-03
 - [ ] backend — (definir tema)
