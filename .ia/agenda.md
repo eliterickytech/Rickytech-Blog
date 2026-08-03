@@ -26,9 +26,9 @@ Marque `- [feito]` quando o post já existir (evita duplicar).
 - [feito] frontend — CSS if(): condicionais nativas de valor (media/supports/style) (`.ia/drafts/frontend-css-if.json`)
 
 ## 2026-08-03
-- [ ] backend — (definir tema)
-- [ ] cloud — (definir tema)
-- [ ] engenharia — (definir tema)
+- [feito] backend — PostgreSQL 18: I/O assíncrono (io_method), uuidv7() e colunas geradas VIRTUAL
+- [feito] cloud — Cloud Run: failover automático multi-região (readiness probes + service health)
+- [feito] engenharia — Como testar Vertical Slice Architecture sem cair na armadilha dos mocks
 
 ## (modelo — copie para uma nova data)
 <!--
